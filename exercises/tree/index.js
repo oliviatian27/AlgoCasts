@@ -42,7 +42,6 @@ class Tree {
       array.unshift(...first.children)
     }
   }
-
 }
 
 module.exports = { Tree, Node };
